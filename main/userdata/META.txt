@@ -1,0 +1,8 @@
+{
+    "User": [
+        {
+            "name": "Admin",
+            "email": "njgrim2091@ung.edu"
+        }
+    ]
+}
